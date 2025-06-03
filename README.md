@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center"> 
+❛ 𝙾𝚗𝚌𝚎 𝚒𝚝'𝚜 𝗯𝘂𝗿𝗻𝗲𝗱, 𝚒𝚝'𝚜 𝗴𝗼𝗻𝗲 𝚏𝚘𝚛 𝚐𝚘𝚘𝚍! ❜
 
-<!--
-**lazyshadz/lazyshadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+    <img width="140" src="https://komarev.com/ghpvc/?username=your-github-username&color=a86f74" alt="views count">
+</p>
+</p> 
+<p align="center">
+    <img width="300" src="https://64.media.tumblr.com/5758bcd820ba569605b944a26674544d/bbf35dd6fdf5efbd-2c/s400x600/286a52c9ec4d3806ab308d8e086303ea321d0c58.pnj" alt="">
+</p>
+<div align="center">
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [RENTRY‎](https://rentry.co/lazyshadzzz)      ‎ ‎   ‎  ‎  ‎  ‎  ‎          ‎ ‎  ‎  ‎  ‎  ‎  ‎     [ATABOOK](https://lazyshadzzz.atabook.org/)
+  
+</div>
+<p align="center">
+    <img width="300" src="https://64.media.tumblr.com/6dd3d9e44852d8c49ce737afe0b88a78/bbf35dd6fdf5efbd-da/s400x600/634f2c1d7cad239961a32712585c8a0a2d34b8b8.pnj" alt="">
+</p>
