@@ -8,7 +8,7 @@
 </p>
 </p> 
 <p align="center">
-    <img width="300" src="https://64.media.tumblr.com/5758bcd820ba569605b944a26674544d/bbf35dd6fdf5efbd-2c/s400x600/286a52c9ec4d3806ab308d8e086303ea321d0c58.pnj" alt="">
+    <img width="270" src="https://64.media.tumblr.com/5758bcd820ba569605b944a26674544d/bbf35dd6fdf5efbd-2c/s400x600/286a52c9ec4d3806ab308d8e086303ea321d0c58.pnj" alt="">
 </p>
 <div align="center">
   
@@ -16,6 +16,3 @@
   [𝚁𝚎𝚗𝚝𝚛𝚢‎](https://rentry.co/lazyshadzzz)      ‎ ‎   ‎  ‎  ‎  ‎  ‎          ‎ ‎  ‎  ‎  ‎  ‎  ‎     [𝙰𝚝𝚊𝚋𝚘𝚘𝚔](https://lazyshadzzz.atabook.org/)
   
 </div>
-<p align="center">
-    <img width="300" src="https://64.media.tumblr.com/6dd3d9e44852d8c49ce737afe0b88a78/bbf35dd6fdf5efbd-da/s400x600/634f2c1d7cad239961a32712585c8a0a2d34b8b8.pnj" alt="">
-</p>
