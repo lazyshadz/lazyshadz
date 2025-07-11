@@ -1,14 +1,14 @@
 <p align="center"> 
-❛ 𝙾𝚗𝚌𝚎 𝚒𝚝'𝚜 𝗯𝘂𝗿𝗻𝗲𝗱, 𝚒𝚝'𝚜 𝗴𝗼𝗻𝗲 𝚏𝚘𝚛 𝚐𝚘𝚘𝚍! ❜
+❛ 𝙷𝚒𝚜 𝙼𝚊𝚓𝚎𝚜𝚝𝚢 𝚒𝚜 𝚌𝚊𝚕𝚕𝚒𝚗𝚐, 𝙻𝚎𝚝'𝚜 𝚛𝚒𝚍𝚎! ❜
 
 </p>
 
 <p align="center">
-    <img width="140" src="https://komarev.com/ghpvc/?username=your-github-username&color=a86f74" alt="views count">
+    <img width="140" src="https://komarev.com/ghpvc/?username=your-github-username&color=2F6986" alt="views count">
 </p>
 </p> 
 <p align="center">
-    <img width="270" src="https://64.media.tumblr.com/5758bcd820ba569605b944a26674544d/bbf35dd6fdf5efbd-2c/s400x600/286a52c9ec4d3806ab308d8e086303ea321d0c58.pnj" alt="">
+    <img width="270" src="https://64.media.tumblr.com/b4f98122e18161d2b6acad7116b27b95/3d11e2965844e6dd-68/s400x600/2da2829b01e6736293c39688ba2571aff1f08055.pnj" alt="">
 </p>
 <div align="center">
   
