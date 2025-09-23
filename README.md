@@ -3,9 +3,11 @@
 <p align="center">
     <img width="140" src="https://komarev.com/ghpvc/?username=your-github-username&color=BAAE7B" alt="views count">
 </p>
+<div align="center">
+  
 </p> 
 <p align="center">
-    <img width="270" src="https://64.media.tumblr.com/29c1d32cb45509cfc44584a27be30731/afa7e4d39eda3cfd-ce/s1280x1920/ed73cbac6f64fac42a50df0b2a7b604a320ebf90.pnj" alt="">
+    <img width="270" src="https://64.media.tumblr.com/b69db0b215f65067568b935a22d4ab4e/564f43a9ffeb2e07-47/s2048x3072/7da3e8b57d61c8887eb2c6764fa939bacfa72a18.pnj" alt="">
 </p>
 <div align="center">
   
